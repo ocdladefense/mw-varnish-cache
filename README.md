@@ -1,0 +1,1 @@
+# mw-varnish-cache
